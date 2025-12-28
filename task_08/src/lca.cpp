@@ -1,6 +1,5 @@
 #include "lca.h"
 
-#include <algorithm>
 #include <cmath>
 
 LCA::LCA(int n, const std::vector<std::vector<int>>& graph)
